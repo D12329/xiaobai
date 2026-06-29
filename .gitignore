@@ -1,0 +1,11 @@
+# 前端依赖
+front/node_modules/
+front/.pnpm-store/
+# Java后端编译文件
+target/
+# IDE配置
+.idea/
+.vscode/
+*.iml
+# 日志、临时文件
+*.log

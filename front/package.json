@@ -1,0 +1,25 @@
+{
+  "name": "recruitment-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@esbuild/win32-x64": "^0.28.0",
+    "@rollup/rollup-win32-x64-msvc": "^4.61.1",
+    "axios": "^1.6.7",
+    "echarts": "^5.5.0",
+    "element-plus": "^2.6.3",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "vite": "^5.4.0"
+  }
+}
